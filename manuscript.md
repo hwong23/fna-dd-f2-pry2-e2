@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-18" />
   <meta name="citation_publication_date" content="2023-07-18" />
   <meta property="article:published_time" content="2023-07-18" />
-  <meta name="dc.modified" content="2023-07-18T00:06:44+00:00" />
-  <meta property="article:modified_time" content="2023-07-18T00:06:44+00:00" />
+  <meta name="dc.modified" content="2023-07-18T00:11:07+00:00" />
+  <meta property="article:modified_time" content="2023-07-18T00:11:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f9fff34656752c8d268d50c59981f4076036764b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f9fff34656752c8d268d50c59981f4076036764b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f9fff34656752c8d268d50c59981f4076036764b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/0a0f9663919c03cffd47a72446861127095fd959/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/0a0f9663919c03cffd47a72446861127095fd959/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/0a0f9663919c03cffd47a72446861127095fd959/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f9fff34656752c8d268d50c59981f4076036764b/))
+([permalink](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/0a0f9663919c03cffd47a72446861127095fd959/))
 was automatically generated
-from [hwong23/fna-dd-f2-pry2-e2@f9fff34](https://github.com/hwong23/fna-dd-f2-pry2-e2/tree/f9fff34656752c8d268d50c59981f4076036764b)
+from [hwong23/fna-dd-f2-pry2-e2@0a0f966](https://github.com/hwong23/fna-dd-f2-pry2-e2/tree/0a0f9663919c03cffd47a72446861127095fd959)
 on July 18, 2023.
 </em></small>
 
@@ -333,7 +333,7 @@ Table: A table with a top caption and specified relative column widths.
 Table: A table too wide to fit within page.
 {#tbl:constant-digits}
 
-|          | **Colors** <!-- $colspan="2" --> |                      |
+|          | **Colors** <!-- ="2" --> |                      |
 |:--------:|:--------------------------------:|:--------------------:|
 | **Size** | **Text Color**                   | **Background Color** |
 | big      | blue                             | orange               |
@@ -350,7 +350,7 @@ $$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
 
 An equation too long to fit within page:
 
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
+$ = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
 
 ## Special
 
@@ -376,7 +376,7 @@ Manubot Manubot Manubot Manubot.
 Manubot Manubot Manubot.
 Manubot Manubot.
 Manubot.
-<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
+<!-- ="element_id" class="some_class" ="color: #ad1457; margin-left: 40px;" ="true" ="a paragraph of text" -color="red" -->
 
 Available background colors for text, images, code, banners, etc:  
 
