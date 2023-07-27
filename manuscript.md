@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-27" />
   <meta name="citation_publication_date" content="2023-07-27" />
   <meta property="article:published_time" content="2023-07-27" />
-  <meta name="dc.modified" content="2023-07-27T23:22:12+00:00" />
-  <meta property="article:modified_time" content="2023-07-27T23:22:12+00:00" />
+  <meta name="dc.modified" content="2023-07-27T23:23:43+00:00" />
+  <meta property="article:modified_time" content="2023-07-27T23:23:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/2020b6144604c52bd6078f21581754ed14b1214b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/2020b6144604c52bd6078f21581754ed14b1214b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/2020b6144604c52bd6078f21581754ed14b1214b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/2020b6144604c52bd6078f21581754ed14b1214b/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@6d683c5](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@2020b61](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 27, 2023.
 </em></small>
 
-|    **Versión** del producto 1.6d683c5 de 27 Jul 2023
+|    **Versión** del producto 1.2020b61 de 27 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.6d683c5 del 27 Jul 2023 |
+| Versión        | 1.2020b61 del 27 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    27 Jul 2023
 >
->    **Versión** 1.6d683c5
+>    **Versión** 1.2020b61
 
 <br>
 
@@ -244,7 +244,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    27 Jul 2023
 >
->    **Versión** 1.6d683c5
+>    **Versión** 1.2020b61
 
 <br>
 
@@ -273,6 +273,7 @@ Las arquitecturas de transición son el sujeto principal, causa, del movilidad d
 * Entendimiento de los métodos, tanto de creación de transiciones, como de hoja de rutas para su aplicación en el FNA
 * Entendimiento del relacionamiento de las capacidades del FNa y los índices de madurez SOA con las arquitecturas de transición
 * Entendimiento del método para gestionar las arquitecturas de transición del FNA
+* Entendimiento del rol de la Oficina de Arquitectura en la gestión de las arquitecturas de transición del FNA
 
 <br>
 
