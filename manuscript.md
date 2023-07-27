@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-27" />
   <meta name="citation_publication_date" content="2023-07-27" />
   <meta property="article:published_time" content="2023-07-27" />
-  <meta name="dc.modified" content="2023-07-27T18:21:10+00:00" />
-  <meta property="article:modified_time" content="2023-07-27T18:21:10+00:00" />
+  <meta name="dc.modified" content="2023-07-27T22:07:24+00:00" />
+  <meta property="article:modified_time" content="2023-07-27T22:07:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/cf4b91382fa2a489988d9fad4556b3525bc3966a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/cf4b91382fa2a489988d9fad4556b3525bc3966a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/cf4b91382fa2a489988d9fad4556b3525bc3966a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7a6be354701e51cfd116a639f4c6cd4294638254/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7a6be354701e51cfd116a639f4c6cd4294638254/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7a6be354701e51cfd116a639f4c6cd4294638254/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/cf4b91382fa2a489988d9fad4556b3525bc3966a/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7a6be354701e51cfd116a639f4c6cd4294638254/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@cf4b913](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@7a6be35](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 27, 2023.
 </em></small>
 
-|    **Versión** del producto 1.cf4b913 de 27 Jul 2023
+|    **Versión** del producto 1.7a6be35 de 27 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.cf4b913 del 27 Jul 2023 |
+| Versión        | 1.7a6be35 del 27 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 >
 >    27 Jul 2023
 >
->    **Versión** 1.cf4b913
+>    **Versión** 1.7a6be35
 
 <br>
 
@@ -227,6 +227,10 @@ _Fuente: Elaboración propia._
 <br>
 
 
+---
+pr14nombre: "Administración de las transiciones hacia la arquitectura versión 2.0"
+...
+
 <div style="page-break-before: always;"></div>
 \newpage
 
@@ -240,11 +244,15 @@ _Fuente: Elaboración propia._
 >
 >    27 Jul 2023
 >
->    **Versión** 1.cf4b913
+>    **Versión** 1.7a6be35
 
 <br>
 
 # Producto 14: PR14. Administración de las transiciones hacia la arquitectura versión 2.0
+Las arquitecturas de referencia, en el contexto del ejercicio de este proyecto, tienen el rol de servir de mapa de viaje contra el cual comparar el recurrido de un cambio objetivo. El arrivo a otro estadio de las cosas es lo que llamamos formalmente como Plateu, en Archimete 3.0, para denotar un estado estable de del funcionamiento de los componentes de una arquitectura transicionada por efecto de los operaciones de trabajo que se han realizado sobre esta. Esta arquitectura afectada por el trabajo y que ha llegado a un estado estable es lo que llamamos en este proyecto transición, y por ende, las arquitecturas intermedias que se den, o las transiciones, las denominamos arquitecturas de transición.
+
+Sobre estas transaciones trataremos en este producto, PR14, Administración de las transiciones hacia la arquitectura versión 2.0.
+
 El principal entregable de este producto son los modelos de arquitevtura de referencia 2.0 del FNA. Para la mayoría de los casos, y en este contexto, los modelos refieren a conjuntos información de ingeniería (no se agotan en solo diagramas o documentos) relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA representados con el lenguaje de descripción de arquitectura designado, que para el caso es Archimatye 3.0. Nota: distintos modelos de igual importancia que la arquitectura del FNA pueden estar representados en otros lenguajes de componentes, procesos de negocio, rendimiento, redes de comunicaciones.
 
 Otro entregable primario de este producto es la documentación técnica inicial con la que denotamos a las espeficaciones de línea base de la arquitectura de referencia 2.0 del FNA. Siendo que esta información textual puede ser considerada como discreta y de que no puede ser verificada (distinta de los modelos), sigue teniendo la ventaja de que es fácil de comunicar.
