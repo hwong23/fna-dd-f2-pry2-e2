@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-27" />
   <meta name="citation_publication_date" content="2023-07-27" />
   <meta property="article:published_time" content="2023-07-27" />
-  <meta name="dc.modified" content="2023-07-27T22:58:30+00:00" />
-  <meta property="article:modified_time" content="2023-07-27T22:58:30+00:00" />
+  <meta name="dc.modified" content="2023-07-27T23:22:12+00:00" />
+  <meta property="article:modified_time" content="2023-07-27T23:22:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/6d683c5d3228efa3ceec2955b26c63a60f048c26/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@76f4438](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@6d683c5](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 27, 2023.
 </em></small>
 
-|    **Versión** del producto 1.76f4438 de 27 Jul 2023
+|    **Versión** del producto 1.6d683c5 de 27 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.76f4438 del 27 Jul 2023 |
+| Versión        | 1.6d683c5 del 27 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    27 Jul 2023
 >
->    **Versión** 1.76f4438
+>    **Versión** 1.6d683c5
 
 <br>
 
@@ -220,7 +220,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 
 ## Modelo de Implementación del PRY01
-![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
+![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry2.png){#fig: width=}
 
 _Fuente: Elaboración propia._
 
@@ -244,7 +244,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    27 Jul 2023
 >
->    **Versión** 1.76f4438
+>    **Versión** 1.6d683c5
 
 <br>
 
@@ -258,33 +258,26 @@ Sobre estas transaciones trataremos en este producto, PR14, Administración de l
 <br>
 
 ## Justificación
-Las arquitecturas de transición son el sujeto principal, causa, del movilidad de un estado de las cosas a otro intencionadamente superior debido a las afectaciones a las capacidades que implican. La transición juega en paralelo con el concepto de uso y adopción del cambio de arquitectura, al que agregamos nosotros el valor de aprovechamiento de este movimento de un estadio a otro. De ahí que, además de crear transiciones con los métodos propuestos, su gestión sobresale al apuntarle a que los retornos se den según expectativas del cambio mientras mantiene el control de los riesgos (probabilidad de éxito) y administra los obstáculos. Gestionar transiciones de las arquitecturas es en últimas garantizar que la arquitectura proveerá el resultado que persiguen los cambios sin comprometer la estabilidad de su funcionamiento.
-
-La representación de la información de ingeniería relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA en elementos de un modelo de arquitecturas supone algunas ventajas frente a la información textual, y de cualquier otro tipo, y de ahí el mérito de estos. Una de estas ventajas es que los modelos pueden acopiar y _asociarse (mapear) con requerimientos de arquitectura mediante unidades de trabajo accionables como épicas, casos de uso, historias y escenarios_. Además, los modelos comportan la ventaja de que son verificables y de fácil transporte. Pero ninguna de estas razones es lo más importante. La verdadera justificación de tener modelado de esta arquitectura de referencia 2.0 (en un lenguaje de descripción de arquitectura) es que el FNA cuente con la creación de un entorno centrado en modelos, el cual, deja abierta la posiblida de la aplicación de técnicas y creación de productos de ingeniería.
-
+Las arquitecturas de transición son el sujeto principal, causa, del movilidad de un estado de las cosas a otro intencionadamente superior debido a las afectaciones a las capacidades que implican. La transición juega en paralelo con el concepto de uso y adopción del cambio de arquitectura, al que agregamos nosotros el valor del aprovechamiento de este movimento de un estadio a otro. De ahí que, además de crear transiciones con los métodos propuestos, la gestión de estos entregables sobresale porque estas le apuntan a que los retornos se den según expectativas del cambio mientras mantiene el control de los riesgos (probabilidad de éxito) y administra los obstáculos. Gestionar transiciones de las arquitecturas en el FNA es en últimas garantizar que la arquitectura proveerá el resultado que persiguen los cambios sin comprometer su estabilidad (funcionamiento).
 
 ## Contenidos
-1. Análisis de los elementos del modelo de la arquitectura de referencia SOA 2.0 del FNA
-1. Repositorio de arquitectura del FNA actualizado con arquitectura de referencia
-1. Documentación técnica 0.2 de la arquitectura de referencia SOA
-1. Proceso de mantenimiento de la arquitectura de referencia SOA 2.0 del FNA
+1. Posibles estadios de adopción y madurez de las arquitectua para el FNA
+1. Relación de las transiciones con las capacidades de negocio y tecnología del FNA
+1. Relación de las transiciones con la efectividad (madurez) de los servicios SOA del FNA
+1. Métodos del FNA para la creación y gestión de arquitecturas de transición
+1. Criterios y métodos de evaluación de arquitecturas de transición
 
 <br>
 
 ## Criterios de Aceptación
-* Repositorio de arquitectura del FNA actualizado con arquitectura de referencia
-* Entendimiento del proceso de mantenimiento de la arquitectura de referencia SOA 2.0 del FNA y sus implicaciones
+* Entendimiento de los métodos, tanto de creación de transiciones, como de hoja de rutas para su aplicación en el FNA
+* Entendimiento del relacionamiento de las capacidades del FNa y los índices de madurez SOA con las arquitecturas de transición
+* Entendimiento del método para gestionar las arquitecturas de transición del FNA
 
 <br>
 
-## Repositorio de Arquitectura del FNA, versión 0.1
-![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-
 ## Modelo de Implementación del PRY01
-![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
+![Plan de Implementación del Proyecto Gobierno SOA del FNA (PRY01), 2023. Junio 2023 a julio 2023](images/pry2.png){#fig: width=}
 
 _Fuente: Elaboración propia._
 
