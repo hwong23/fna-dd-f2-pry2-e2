@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-27" />
   <meta name="citation_publication_date" content="2023-07-27" />
   <meta property="article:published_time" content="2023-07-27" />
-  <meta name="dc.modified" content="2023-07-27T22:46:41+00:00" />
-  <meta property="article:modified_time" content="2023-07-27T22:46:41+00:00" />
+  <meta name="dc.modified" content="2023-07-27T22:58:30+00:00" />
+  <meta property="article:modified_time" content="2023-07-27T22:58:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9bda4282f7dc712e856a72cfa3c05884de70fcd1/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9bda4282f7dc712e856a72cfa3c05884de70fcd1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9bda4282f7dc712e856a72cfa3c05884de70fcd1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9bda4282f7dc712e856a72cfa3c05884de70fcd1/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/76f44387d9d7ad3f5373d824e83d7c1b538921a2/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@9bda428](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@76f4438](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 27, 2023.
 </em></small>
 
-|    **Versión** del producto 1.9bda428 de 27 Jul 2023
+|    **Versión** del producto 1.76f4438 de 27 Jul 2023
 
 
 
@@ -142,7 +142,7 @@ tablenos-caption-name: Tabla
 ...
 
 ## Objetivo del Documento
-Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno SOA del FNA, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
+Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta de diseño del FNA​ y PR14. Administración de las transiciones hacia la arquitectura versión 2.0, del proyecto Gobierno SOA del FNA, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
 
 
 ##  Control de Cambios {.page_break_before}
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.9bda428 del 27 Jul 2023 |
+| Versión        | 1.76f4438 del 27 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Gobierno
 >
 >    27 Jul 2023
 >
->    **Versión** 1.9bda428
+>    **Versión** 1.76f4438
 
 <br>
 
@@ -244,7 +244,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    27 Jul 2023
 >
->    **Versión** 1.9bda428
+>    **Versión** 1.76f4438
 
 <br>
 
