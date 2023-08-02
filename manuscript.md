@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-02" />
   <meta name="citation_publication_date" content="2023-08-02" />
   <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T17:00:56+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T17:00:56+00:00" />
+  <meta name="dc.modified" content="2023-08-02T17:05:09+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T17:05:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/481b3091d8196af7fda9b83e6743078aeca0a93d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/481b3091d8196af7fda9b83e6743078aeca0a93d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/481b3091d8196af7fda9b83e6743078aeca0a93d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/481b3091d8196af7fda9b83e6743078aeca0a93d/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@527315a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@481b309](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.527315a de 02 Aug 2023
+|    **Versión** del producto 1.481b309 de 02 Aug 2023
 
 
 
@@ -146,12 +146,12 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 
 
 ##  Control de Cambios {.page_break_before}
-| Tema           | PRY01 Gobierno SOA FNA     |
+| Tema           | PRY01 Gobierno SOA del FNA      |
 |----------------|----------------------------|
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.527315a del 02 Aug 2023 |
+| Versión        | 1.481b309 del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    02 Aug 2023
 >
->    **Versión** 1.527315a
+>    **Versión** 1.481b309
 
 <br>
 
@@ -244,7 +244,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    02 Aug 2023
 >
->    **Versión** 1.527315a
+>    **Versión** 1.481b309
 
 <br>
 
