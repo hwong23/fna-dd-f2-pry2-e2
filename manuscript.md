@@ -6,11 +6,11 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-28'
+date-meta: '2023-08-02'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
-- Flavio Hernandez, ing.
+- Sergio Andrés Castro Hernandez, ing.
 - Viviana M. Martinez, ing.
 header-includes: |
   <!--
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-07-28" />
-  <meta name="citation_publication_date" content="2023-07-28" />
-  <meta property="article:published_time" content="2023-07-28" />
-  <meta name="dc.modified" content="2023-07-28T13:33:02+00:00" />
-  <meta property="article:modified_time" content="2023-07-28T13:33:02+00:00" />
+  <meta name="dc.date" content="2023-08-02" />
+  <meta name="citation_publication_date" content="2023-08-02" />
+  <meta property="article:published_time" content="2023-08-02" />
+  <meta name="dc.modified" content="2023-08-02T17:00:56+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T17:00:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -38,7 +38,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
   <meta name="citation_author" content="Wilson Morales, ing." />
   <meta name="citation_author_institution" content="Software, Aplicaciones" />
-  <meta name="citation_author" content="Flavio Hernandez, ing." />
+  <meta name="citation_author" content="Sergio Andrés Castro Hernandez, ing." />
   <meta name="citation_author_institution" content="SOA, Arquitectura" />
   <meta name="citation_author" content="Viviana M. Martinez, ing." />
   <meta name="citation_author_institution" content="Analista, Proyectos" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7cb4feecec0b7846c2a2f9e8220f26efc4da9fa8/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7cb4feecec0b7846c2a2f9e8220f26efc4da9fa8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7cb4feecec0b7846c2a2f9e8220f26efc4da9fa8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/7cb4feecec0b7846c2a2f9e8220f26efc4da9fa8/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/527315a07821ac0e0987a58c46ef2db7cc0e8284/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@7cb4fee](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 28, 2023.
+[Sharepoint STEF@527315a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.7cb4fee de 28 Jul 2023
+|    **Versión** del producto 1.527315a de 02 Aug 2023
 
 
 
@@ -102,7 +102,7 @@ del July 28, 2023.
      Software, Aplicaciones
   </small>
 
-+ **Flavio Hernandez, ing.**
++ **Sergio Andrés Castro Hernandez, ing.**
   <br>
     · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
     [fhernandez](https://github.com/fhernandez)
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.7cb4fee del 28 Jul 2023 |
+| Versión        | 1.527315a del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -178,9 +178,9 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    FNA, Stefanini
 >
->    28 Jul 2023
+>    02 Aug 2023
 >
->    **Versión** 1.7cb4fee
+>    **Versión** 1.527315a
 
 <br>
 
@@ -242,9 +242,9 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    FNA, Stefanini
 >
->    28 Jul 2023
+>    02 Aug 2023
 >
->    **Versión** 1.7cb4fee
+>    **Versión** 1.527315a
 
 <br>
 
