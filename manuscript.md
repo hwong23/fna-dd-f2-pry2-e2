@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-02'
+date-meta: '2023-08-04'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-02" />
-  <meta name="citation_publication_date" content="2023-08-02" />
-  <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T17:26:57+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T17:26:57+00:00" />
+  <meta name="dc.date" content="2023-08-04" />
+  <meta name="citation_publication_date" content="2023-08-04" />
+  <meta property="article:published_time" content="2023-08-04" />
+  <meta name="dc.modified" content="2023-08-04T03:02:12+00:00" />
+  <meta property="article:modified_time" content="2023-08-04T03:02:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b4da356aceb308b582f9a9ce5c657dad6a8f6369/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b4da356aceb308b582f9a9ce5c657dad6a8f6369/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b4da356aceb308b582f9a9ce5c657dad6a8f6369/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f1cf599268a2c51b82a27312b50783657ccce627/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f1cf599268a2c51b82a27312b50783657ccce627/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f1cf599268a2c51b82a27312b50783657ccce627/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b4da356aceb308b582f9a9ce5c657dad6a8f6369/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/f1cf599268a2c51b82a27312b50783657ccce627/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@b4da356](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 2, 2023.
+[Sharepoint STEF@f1cf599](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.b4da356 de 02 Aug 2023
+|    **Versión** del producto 1.f1cf599 de 04 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.b4da356 del 02 Aug 2023 |
+| Versión        | 1.f1cf599 del 04 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -179,16 +179,16 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    FNA, Stefanini
 >
->    02 Aug 2023
+>    04 Aug 2023
 >
->    **Versión** 1.b4da356
+>    **Versión** 1.f1cf599
 
 <br>
 
 # Producto 13: PR13. Modelado en lenguaje y herramienta de diseño del FNA​
-El principal entregable de este producto son los modelos de arquitevtura de referencia 2.0 del FNA. Para la mayoría de los casos, y en este contexto, los modelos refieren a conjuntos información de ingeniería (no se agotan en solo diagramas o documentos) relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA representados con el lenguaje de descripción de arquitectura designado, que para el caso es Archimatye 3.0. Nota: distintos modelos de igual importancia que la arquitectura del FNA pueden estar representados en otros lenguajes de componentes, procesos de negocio, rendimiento, redes de comunicaciones.
+El principal entregable de este producto son los modelos de arquitectura de referencia 2.0 del FNA. Para la mayoría de los casos, y en este contexto, los modelos refieren a conjuntos información de ingeniería (no se agotan en solo diagramas o documentos) relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA representados con el lenguaje de descripción de arquitectura designado, que para el caso es Archimate 3.0. Nota: distintos modelos de igual importancia que la arquitectura del FNA pueden estar representados en otros lenguajes de componentes, procesos de negocio, rendimiento, redes de comunicaciones.
 
-Otro entregable primario de este producto es la documentación técnica inicial con la que denotamos a las espeficaciones de línea base de la arquitectura de referencia 2.0 del FNA. Siendo que esta información textual puede ser considerada como discreta y de que no puede ser verificada (distinta de los modelos), sigue teniendo la ventaja de que es fácil de comunicar.
+Otro entregable primario de este producto es la documentación técnica inicial con la que denotamos a las especificaciones de línea base de la arquitectura de referencia 2.0 del FNA. Siendo que esta información textual puede ser considerada como discreta y de que no puede ser verificada (distinta de los modelos), sigue teniendo la ventaja de que es fácil de comunicar.
 
 Juntos, los modelos y las especificaciones y requerimientos de arquitectura, estos entregables constituyen lo que llamamos la Arquitectura de Referencia SOA 2.0 del FNA, y que además de ser una línea base, tiene la responsabilidad adicional de ser la hoja de ruta y, por tanto, guía de la transformación de las arquitectura estado actual hacia esta nueva versión.
 
@@ -197,7 +197,7 @@ Juntos, los modelos y las especificaciones y requerimientos de arquitectura, est
 <br>
 
 ## Justificación
-La representación de la información de ingeniería relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA en elementos de un modelo de arquitecturas supone algunas ventajas frente a la información textual, y de cualquier otro tipo, y de ahí el mérito de estos. Una de estas ventajas es que los modelos pueden acopiar y _asociarse (mapear) con requerimientos de arquitectura mediante unidades de trabajo accionables como épicas, casos de uso, historias y escenarios_. Además, los modelos comportan la ventaja de que son verificables y de fácil transporte. Pero ninguna de estas razones es lo más importante. La verdadera justificación de tener modelado de esta arquitectura de referencia 2.0 (en un lenguaje de descripción de arquitectura) es que el FNA cuente con la creación de un entorno centrado en modelos, el cual, deja abierta la posiblida de la aplicación de técnicas y creación de productos de ingeniería.
+La representación de la información de ingeniería relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA en elementos de un modelo de arquitecturas supone algunas ventajas frente a la información textual, y de cualquier otro tipo, y de ahí el mérito de estos. Una de estas ventajas es que los modelos pueden acopiar y _asociarse (mapear) con requerimientos de arquitectura mediante unidades de trabajo accionables como épicas, casos de uso, historias y escenarios_. Además, los modelos comportan la ventaja de que son verificables y de fácil transporte. Pero ninguna de estas razones es lo más importante. La verdadera justificación de tener modelado de esta arquitectura de referencia 2.0 (en un lenguaje de descripción de arquitectura) es que el FNA cuente con la creación de un entorno centrado en modelos, el cual, deja abierta la posibilidad de la aplicación de técnicas y creación de productos de ingeniería.
 
 
 ## Contenidos
@@ -229,6 +229,110 @@ _Fuente: Elaboración propia._
 
 
 ---
+prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | Modelado en lenguaje y herramienta de diseño del FNA​: **Análisis de los elementos del modelo de la arquitectura de referencia SOA 2.0 del FNA** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.f1cf599** del 04 Aug 2023                       |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Análisis de Elementos Relevantes para la Arquitectura de Referencia SOA 2.0 del FNA
+## Catálogo de Servicios FNA (blueprint)
+
+### Capacidades de la Empresa FNA
+No hay capacidades de negocio FNA en los modelos de la empresa, pero en la documentación del repositorio hay información sustituta con la que hacemos una propuesta de la vista de las capacidades FNA. Esta vista preliminar sirve para relacionar las capacidades preliminares con los servicios SOA de la empresa y con los demás elementos de la vista de segmento.
+
+Capacidades de negocio encontradas:
+
+1. Desarrollo de nuevos negocios
+1. Gestión de Cliente
+1. Administración de Recursos y Negocio
+1. Entrega de Productos
+1. Servicios de Cuentas
+1. Gestión Financiera
+
+_Fuente: Portafolio de Aplicaciones FNA._
+
+<br>
+
+### Importancia de las Capacidades y Servicios SOA (y otras partes de la empresa)
+La intersección de la vista de segmento del FNA con las capacidades de negocio propuestas por este ejercicio (en color naranja abajo) resultará en la lista de servicios de negocio más importantes para la empresa dado su nivel de relación con estas capacidades.
+
+![Capacidades y Servicios SOA (y otras partes de la empresa)](images/FNA_Arquitectura-Vista%20CapacidadesFNA.png){#fig: width=}
+
+<br>
+
+Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
+
+|**Parte FNA**|**Parte Relacionada**|**Tipo**|
+|-------------|---------------------|--------|
+|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Entrega de Productos|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Gestión de Cliente|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Servicios de Cuentas|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+
+_Fuente: arquitectura fna.archimate_
+
+<br>
+
+Las capacidades de mayor importancia para el FNA debido a su nivel superior de relación con las partes relevantes de la empresa son los siguientes
+
+|Nombre Origen|**Destino**|**Relevancia**|
+|-------------|-----------|--------------|
+|Desarrollo de nuevos negocios|COBIS|**96**|
+|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|8|
+|Desarrollo de nuevos negocios|AS034-ConsultarestadocuentaCartera|6|
+|Desarrollo de nuevos negocios|ASXX3-RegistrarRecaudoObligacion|5|
+|Desarrollo de nuevos negocios|Servicios COBIS|13|
+|**Total Desarrollo de nuevos negocios**||128|
+|Entrega de Productos|COBIS|**96**|
+|Entrega de Productos|AS026-Gestión de Autenticación|8|
+|Entrega de Productos|AS034-ConsultarestadocuentaCartera|6|
+|Entrega de Productos|ASXX3-RegistrarRecaudoObligacion|5|
+|Entrega de Productos|Servicios COBIS|13|
+|**Total Entrega de Productos**||128|
+|Gestión de Cliente|COBIS|**96**|
+|Gestión de Cliente|AS026-Gestión de Autenticación|8|
+|Gestión de Cliente|AS034-ConsultarestadocuentaCartera|6|
+|Gestión de Cliente|ASXX3-RegistrarRecaudoObligacion|5|
+|Gestión de Cliente|Servicios COBIS|13|
+|**Total Gestión de Cliente**||128|
+|Servicios de Cuentas|COBIS|**96**|
+|Servicios de Cuentas|AS026-Gestión de Autenticación|8|
+|Servicios de Cuentas|AS034-ConsultarestadocuentaCartera|6|
+|Servicios de Cuentas|ASXX3-RegistrarRecaudoObligacion|5|
+|**Total Servicios de Cuentas**||115|
+
+_Fuente: arquitectura fna.archimate_
+
+<br>
+
+
+---
 pr14nombre: "Administración de las transiciones hacia la arquitectura versión 2.0"
 ...
 
@@ -243,9 +347,9 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    FNA, Stefanini
 >
->    02 Aug 2023
+>    04 Aug 2023
 >
->    **Versión** 1.b4da356
+>    **Versión** 1.f1cf599
 
 <br>
 
