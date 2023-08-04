@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-04" />
   <meta name="citation_publication_date" content="2023-08-04" />
   <meta property="article:published_time" content="2023-08-04" />
-  <meta name="dc.modified" content="2023-08-04T03:16:27+00:00" />
-  <meta property="article:modified_time" content="2023-08-04T03:16:27+00:00" />
+  <meta name="dc.modified" content="2023-08-04T03:30:11+00:00" />
+  <meta property="article:modified_time" content="2023-08-04T03:30:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/fd4b4536a67d516ee67dfbbe98d776a8324f8042/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/fd4b4536a67d516ee67dfbbe98d776a8324f8042/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/fd4b4536a67d516ee67dfbbe98d776a8324f8042/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/fd4b4536a67d516ee67dfbbe98d776a8324f8042/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@fd4b453](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@485e6af](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.fd4b453 de 04 Aug 2023
+|    **Versión** del producto 1.485e6af de 04 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.fd4b453 del 04 Aug 2023 |
+| Versión        | 1.485e6af del 04 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    04 Aug 2023
 >
->    **Versión** 1.fd4b453
+>    **Versión** 1.485e6af
 
 <br>
 
@@ -240,7 +240,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.fd4b453** del 04 Aug 2023                       |
+| Versión        | **1.485e6af** del 04 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -352,7 +352,7 @@ _Fuente: ae_fna.archimate, ae_fna_as_is.archimate, ae_fna_tobe.archimate._
 
 Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas. Razón por la cual no tienen relación con los elementos relevantes de la empresa ni de este diagnóstico. 
 
-## Anexo 1. Áreas FNA Modeladas
+### Anexo 1. Áreas FNA Modeladas
 | Name                                                 | Type              |
 |------------------------------------------------------|-------------------|
 | 1\. Cargue de insumo                                 | business-function |
@@ -385,7 +385,7 @@ Table: Áreas de negocio de la Línea Base de Arquitectura (LBAF) del FNA analiz
 
 <br>
 
-## Anexo 2. Modelos Analizados
+### Anexo 2. Modelos Analizados
 * 2015-06-01 modelo arquitectura togaf - fna banca digital v6.archimate
 * aa002 - cobis ahorro voluntario.archimate
 * aa003-cobis cesantias.archimate
@@ -414,6 +414,53 @@ Table: Modelos de la Línea Base de Arquitectura (LBAF) del FNA analizados. {#tb
 <br>
 
 
+## Análisis de Alineación con Negocio FNA
+El nivel de alineación tecnología-negocio lo evidenciamos en dos vías. La primera, mediante la relación de las capacidades de negocio con los servicios SOA. La segunda, por medio de la distribución de población de servicios en el portafolio del FNA, esto es, la cuenta de servicios por tipo.
+
+### Alineación Mediante la Relación Capacidades-Servicios SOA
+Para conseguir la alineación definitiva de negocio del FNA, de las áreas seleccionadas por este ejercicio, y de los requerimientos funcionales y de mejora con los servicios SOA _es imperativo desarrollar el modelo de capacidades de negocio del FNA_. Desarrollar formalmente el modelo de capacidades, y profundizar en sus relaciones con las demás partes de la empresa, que incluye a los servicios SOA, hace posible el enfocar los esfuerzos, los análisis, asignar recursos y aplicar controles exclusivos en aquellas partes más cercanas a estas capacidades, y que por ende son las tienden a liberan el mayor valor e impacto positivo para el Fondo. Lo contrario a esto sería desarrollar todo basado en la percepción: desarrollar todo lo que sea percibido en su momento como importante, y después cambiar de objetivo cuando surja uno que tenga mejor percepción.
+
+Desarrollar las capacidades de negocio del FNA beneficia también al desarrollo y selección de las tecnologías del FNA; particularmente a la arquitectura SOA que es objeto de este diagnóstico. Una vez el cuente con las capacidades de negocio tanto de la vicepresidencia de Crédito como con la de Operaciones es fácil gestionar las capacidades y los requerimientos de los servicios SOA, y describir con ello más detalles de una posibilidad de la arquitectura de referencia que sirva como hoja de ruta para seguir mejorando la empresa.
+
+La imagen siguiente muestra que en el estado actual SOA de la empresa son muy pocas las relaciones entre las capacidades de negocio y los servicios SOA del Fondo, razón por la que es necesario que el FNA desarrolle su modelo de capacidades de negocio, y gestione mejor los requerimientos de negocio con el desarrollo de tipos de servicios de negocio.
+
+![](images/conclusiones-2.png)
+
+[Imagen.]() Desarrollo y profundización de las capacidades del FNA propuestas. Existen pocas las relaciones entre las capacidades de negocio y los servicios SOA del Fondo.
+
+_Fuente: elaboración propia_.
+
+<br>
+
+>**Nota**. La situación actual SOA evidencia que la alineación con negocio pasa más por las aplicaciones y herramientas de software que por los servicios (ver [N003e. Catálogo de Servicios FNA-1](N003e.md)). Es imperativo desarrollar el modelo de capacidades de negocio del FNA, tal que permita enfocar los esfuerzos de monitoreo de negocio y de gobierno de servicios SOA.
+
+<br>
+
+### Alineación Mediante Clasificación del Portafolio de Servicios SOA del FNA
+El otro indicio de alineación SOA con el negocio viene esta vez de mano del portafolio de servicios del Fondo. _Viendo la tabla de la distribución actual de los servicios del portafolio sobresale que se encuentra inclinada hacia los servicios de información_. Esto puede significar que las necesidades de negocio de las vicepresidencias de Crédito y de Operaciones están siendo satisfechas en mayor grado por este tipo de servicios, que con servicios de negocio o de proceso.
+
+|                      |              |
+|----------------------|:------------:|
+| **Tipo Servicio**    | **Cantidad** |
+| Servicio Información |    **55**    |
+| Servicio Proceso     |      18      |
+| Servicio Negocio     |      14      |
+| **Total general**    |    **87**    |
+
+Table: Catalogación de los tipos de servicios SOA de la Línea Base de Arquitectura (LBAF) del FNA analizada. {#tbl:-id}
+
+_Fuente: elaboración propia, [N003e. Catálogo de Servicios FNA-3](N003e.CatálogodeServiciosFNA-3.md)_
+
+<br>
+
+_Información adicional_. Los servicios de negocio son los que elaboran una respuesta mediante un cómputo (sea cálculo, diferencia, comparación), y por tanto, inciden en la flexibilidad de negocio. Son los de menor presencia en el portafolio FNA. En cambio, los servicios de procesos son aquellos que orquestan la ejecución de las tareas de los procesos de negocio (BPM).
+
+<br>
+
+>**Nota**. Los requerimientos de servicios de las áreas vicepresidencias de Crédito y de Operaciones son en mayoría de transporte, integración y consulta de datos cuando la flexibilidad de negocio está más basada en los servicios de proceso y de negocio.
+
+
+
 ---
 pr14nombre: "Administración de las transiciones hacia la arquitectura versión 2.0"
 ...
@@ -431,7 +478,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    04 Aug 2023
 >
->    **Versión** 1.fd4b453
+>    **Versión** 1.485e6af
 
 <br>
 
