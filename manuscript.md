@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-04" />
   <meta name="citation_publication_date" content="2023-08-04" />
   <meta property="article:published_time" content="2023-08-04" />
-  <meta name="dc.modified" content="2023-08-04T03:32:25+00:00" />
-  <meta property="article:modified_time" content="2023-08-04T03:32:25+00:00" />
+  <meta name="dc.modified" content="2023-08-04T03:54:59+00:00" />
+  <meta property="article:modified_time" content="2023-08-04T03:54:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9e780f974346a405d559502eb24422481f999875/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9e780f974346a405d559502eb24422481f999875/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9e780f974346a405d559502eb24422481f999875/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/9e780f974346a405d559502eb24422481f999875/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@3390a11](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@9e780f9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.3390a11 de 04 Aug 2023
+|    **Versión** del producto 1.9e780f9 de 04 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.3390a11 del 04 Aug 2023 |
+| Versión        | 1.9e780f9 del 04 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    04 Aug 2023
 >
->    **Versión** 1.3390a11
+>    **Versión** 1.9e780f9
 
 <br>
 
@@ -240,7 +240,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.3390a11** del 04 Aug 2023                       |
+| Versión        | **1.9e780f9** del 04 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -445,7 +445,7 @@ El otro indicio de alineación SOA con el negocio viene esta vez de mano del por
 | Servicio Negocio     |      14      |
 | **Total general**    |    **87**    |
 
-Table: Catalogación de los tipos de servicios SOA de la Línea Base de Arquitectura (LBAF) del FNA analizada. {#tbl:-id}
+Table: Catalogación de los tipos de servicios SOA de la Línea Base de Arquitectura (LBAF) del FNA analizada. {#tbl:alienacion-id}
 
 _Fuente: elaboración propia, [N003e. Catálogo de Servicios FNA-3](N003e.CatálogodeServiciosFNA-3.md)_
 
@@ -456,6 +456,87 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 <br>
 
 >**Nota**. Los requerimientos de servicios de las áreas vicepresidencias de Crédito y de Operaciones son en mayoría de transporte, integración y consulta de datos cuando la flexibilidad de negocio está más basada en los servicios de proceso y de negocio.
+
+
+
+---
+prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | Modelado en lenguaje y herramienta de diseño del FNA​: **Repositorio de arquitectura del FNA actualizado con arquitectura de referencia** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.9e780f9** del 04 Aug 2023                       |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Repositorio de Arquitectura del FNA Actualizado con Arquitectura de referencia Inicial
+Existe la oportunidad de impulsar la evolución de la alineación de la tecnología con las áreas misionales del Fondo dado que el repositorio de arquitectura del FNA contiene información inicial para este objetivo (ver la tabla siguiente, clasificación de información del repositorio del Fondo). 
+
+| **Contenidos FNA**                 |          |
+|------------------------------------|----------|
+| Servicios                          | **543**  |
+| Arquitectura                       | 352      |
+| Información                        | 248      |
+| Aplicación                         | 107      |
+| Funcional                          | 61       |
+| **Total Contenidos FNA revisados** | **1311** |
+
+Table: Clasificación de información del repositorio del FNA. {#tbl:contenidos-id}
+
+_Fuente: elaboración propia._
+
+<br>
+
+Sin embargo, antes de dar paso a la gestión de la tecnología para el negocio de FNA hay que subsanar estas problemática encontradas en la información de los modelos y conceptos del repositorio:
+
+1. Redundancias y el atraso de la información de los modelos y conceptos. 
+1. Incompletitud en el modelamiento de conceptos, como las capacidades de negocio, o los procesos de negocio del FNA.
+1. Inconsistencia en el lenguaje de modelado. Falta estandarizar nombres y formas de representación de los mismo conceptos entre modelos.
+
+<br>
+
+Para apoyar la gestión de la alineación de la tecnología del Fondo guíada por la arquitectura, hemos creado una herramienta de búsqueda, navegación y clasificación de los contenidos del repositorio del FNA
+
+![Herramienta para navegación y clasificación de contenidos del FNA.](images/libreria.png){#fig:libreria.png width=}
+
+_Fuente: elaboración propia._
+
+## Anexo 2. Modelos Actualizados
+Modelos actualizados por el ejercicio actual y por tanto, entregados al FNA, producto PR06.
+
+Estos modelos se encuentran por ahora, mientras dura el proyecto en repositorio intermedio de entregas [Repositorio SOA](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Modelos?csf=1&web=1&e=LSEm4L).
+
+* 2015-06-01 modelo arquitectura togaf - fna banca digital v6.archimate
+* aa002 - cobis ahorro voluntario.archimate
+* aa003-cobis cesantias.archimate
+* aa005-cobis cartera.archimate
+* aa006-cobis tramites.archimate
+* aa015-cobis clientes.archimate
+* aa020-banca virtual.archimate
+* aa021-fondo en linea.archimate
+* aa074-fondo en linea personal.archimate
+* **aa091-cobis cx.archimate**
+* **ae_fna.archimate**
+* **ae_fna_as_is.archimate**
+* ae_fna_tobe.archimate
+* arquitectura banca digital v4.archimate
+* **arquitectura fna.archimate**
+* arquitectura movil_v1.archimate
+* arquitectura movil_v2.archimate
+* fna_proyectos v2.0.archimate
+* information_architecture_bi_ba_md_archixml.archimate
+* ivr.archimate
+* pa0003-pki.archimate
+* workmanager.archimate
+
+<br>
 
 
 
@@ -476,7 +557,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    04 Aug 2023
 >
->    **Versión** 1.3390a11
+>    **Versión** 1.9e780f9
 
 <br>
 
