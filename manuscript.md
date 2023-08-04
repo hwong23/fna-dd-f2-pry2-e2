@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-04" />
   <meta name="citation_publication_date" content="2023-08-04" />
   <meta property="article:published_time" content="2023-08-04" />
-  <meta name="dc.modified" content="2023-08-04T03:30:11+00:00" />
-  <meta property="article:modified_time" content="2023-08-04T03:30:11+00:00" />
+  <meta name="dc.modified" content="2023-08-04T03:32:25+00:00" />
+  <meta property="article:modified_time" content="2023-08-04T03:32:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/485e6afd145c0ef9c867b9388e2ac746a3a8f5e7/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3390a119e04bf548ec5c8e93f9111a9175d9a363/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@485e6af](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@3390a11](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.485e6af de 04 Aug 2023
+|    **Versión** del producto 1.3390a11 de 04 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.485e6af del 04 Aug 2023 |
+| Versión        | 1.3390a11 del 04 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    04 Aug 2023
 >
->    **Versión** 1.485e6af
+>    **Versión** 1.3390a11
 
 <br>
 
@@ -240,7 +240,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.485e6af** del 04 Aug 2023                       |
+| Versión        | **1.3390a11** del 04 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -344,7 +344,7 @@ En los modelos analizados (Anexo 2) no se evidencia relación de las áreas de n
 La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de Legalización.
 
 
-![Vista](images/FNA_Arquitectura-AreasNegocioFNA.png)
+![Vista](images/FNA_Arquitectura-AreasNegocioFNA.png){#fig: width=}
 
 _Fuente: ae_fna.archimate, ae_fna_as_is.archimate, ae_fna_tobe.archimate._
 
@@ -424,9 +424,7 @@ Desarrollar las capacidades de negocio del FNA beneficia también al desarrollo 
 
 La imagen siguiente muestra que en el estado actual SOA de la empresa son muy pocas las relaciones entre las capacidades de negocio y los servicios SOA del Fondo, razón por la que es necesario que el FNA desarrolle su modelo de capacidades de negocio, y gestione mejor los requerimientos de negocio con el desarrollo de tipos de servicios de negocio.
 
-![](images/conclusiones-2.png)
-
-[Imagen.]() Desarrollo y profundización de las capacidades del FNA propuestas. Existen pocas las relaciones entre las capacidades de negocio y los servicios SOA del Fondo.
+![Desarrollo y profundización de las capacidades del FNA propuestas. Existen pocas las relaciones entre las capacidades de negocio y los servicios SOA del Fondo.](images/conclusiones-2.png){#fig: width=}
 
 _Fuente: elaboración propia_.
 
@@ -478,7 +476,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    04 Aug 2023
 >
->    **Versión** 1.485e6af
+>    **Versión** 1.3390a11
 
 <br>
 
