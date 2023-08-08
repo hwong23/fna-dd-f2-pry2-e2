@@ -72,6 +72,8 @@ jobs:
           echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
           echo "PROYECTO=PRY02" >> $GITHUB_ENV
           echo "PROY_DESCR=Arquitectura de Referencia SOA 2.0 del FNA" >> $GITHUB_ENV
+          echo "PR11_NOMBRE=Detalle de los recursos, herramientas, roles, responsabilidades y participantes" >> $GITHUB_ENV
+          echo "PR12_NOMBRE=Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​" >> $GITHUB_ENV
           echo "PR13_NOMBRE=Modelado en lenguaje y herramienta de diseño del FNA​" >> $GITHUB_ENV
           echo "PR14_NOMBRE=Administración de las transiciones hacia la arquitectura versión 2.0" >> $GITHUB_ENV
 

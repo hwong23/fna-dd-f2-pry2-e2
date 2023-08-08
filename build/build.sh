@@ -28,7 +28,7 @@ COMMIT="${TRIGGERING_SHA_7}"
 # located in the $PANDOC_DATA_DIR/defaults directory.
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
 export FECHA_COMPILACION COMMIT PROYECTO PROY_DESCR
-export PR013_NOMBRE PR014_NOMBRE
+export PR12_NOMBRE PR013_NOMBRE PR014_NOMBRE
 
 # Generate reference information
 echo >&2 "Retrieving and processing reference metadata"
