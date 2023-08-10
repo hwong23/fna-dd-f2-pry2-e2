@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-08'
+date-meta: '2023-08-10'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-08" />
-  <meta name="citation_publication_date" content="2023-08-08" />
-  <meta property="article:published_time" content="2023-08-08" />
-  <meta name="dc.modified" content="2023-08-08T22:26:25+00:00" />
-  <meta property="article:modified_time" content="2023-08-08T22:26:25+00:00" />
+  <meta name="dc.date" content="2023-08-10" />
+  <meta name="citation_publication_date" content="2023-08-10" />
+  <meta property="article:published_time" content="2023-08-10" />
+  <meta name="dc.modified" content="2023-08-10T14:49:40+00:00" />
+  <meta property="article:modified_time" content="2023-08-10T14:49:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3a03b8b6bea24bc30898f53dc49eca546d79baf1/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3a03b8b6bea24bc30898f53dc49eca546d79baf1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3a03b8b6bea24bc30898f53dc49eca546d79baf1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/4246c7f93dc8138f6e94e2742ac3980e231b6487/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/4246c7f93dc8138f6e94e2742ac3980e231b6487/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/4246c7f93dc8138f6e94e2742ac3980e231b6487/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/3a03b8b6bea24bc30898f53dc49eca546d79baf1/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/4246c7f93dc8138f6e94e2742ac3980e231b6487/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@3a03b8b](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 8, 2023.
+[Sharepoint STEF@4246c7f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 10, 2023.
 </em></small>
 
-|    **Versión** del producto 1.3a03b8b de 08 Aug 2023
+|    **Versión** del producto 1.4246c7f de 10 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.3a03b8b del 08 Aug 2023 |
+| Versión        | 1.4246c7f del 10 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -179,9 +179,9 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    FNA, Stefanini
 >
->    08 Aug 2023
+>    10 Aug 2023
 >
->    **Versión** 1.3a03b8b
+>    **Versión** 1.4246c7f
 
 <br>
 
@@ -240,7 +240,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.3a03b8b** del 08 Aug 2023                       |
+| Versión        | **1.4246c7f** del 10 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -471,7 +471,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.3a03b8b** del 08 Aug 2023                       |
+| Versión        | **1.4246c7f** del 10 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -555,9 +555,9 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    FNA, Stefanini
 >
->    08 Aug 2023
+>    10 Aug 2023
 >
->    **Versión** 1.3a03b8b
+>    **Versión** 1.4246c7f
 
 <br>
 
@@ -610,15 +610,15 @@ prnombre: "Administración de las transiciones hacia la arquitectura versión 2.
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.3a03b8b** del 08 Aug 2023                       |
+| Versión        | **1.4246c7f** del 10 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # Estadios de Adopción y Transición de las arquitecturas para el FNA
-La noción de adopción en el contexto de este proyecto es un instrumento para la adaptación de una nueva arquitectura. La adopción de nuevas arquitecturas, como instrumento de navegación, es importante por que informa sobre el horizonte de cambios contenidos en la hoja de ruta de la arquitectura del FNA, determinada en este caso por la Oficina de Arquitectura de la empresa. Información que sirve para tomar decisión a lo largo de dicha hoja de ruta, actividad claramente importante.
+La noción de adopción en el contexto de este proyecto es un instrumento para la adaptación de una nueva arquitectura dentro de un contexto de la empresa. El concepto de _adopción de nuevas arquitecturas_, visto también como instrumento de navegación, es importante porque informa sobre el horizonte de cambios contenidos en la hoja de ruta de las arquitecturas del FNA, determinada en este caso por la Oficina de Arquitectura de la empresa. Por otro lado, la adopción como proceso, provee información que sirve para tomar decisión a lo largo de dicha hoja de ruta, actividad claramente importante.
 
-Antes de desarrollar la adopción, como proceso y como instrumento, debemos describir los estadios de adopción a los que le apuntaremos que nos darán un orden y una percepción de progreso mientras la hoja de ruta se va desplegando.
+Antes de desarrollar los métodos de adopción, como proceso y como instrumento, debemos describir los estadios de expansión a los que le apuntamos, los cuales darán un orden y una percepción de progreso mientras la hoja de ruta de las arquitecturas se va desplegando.
 
 Presentaremos a continuación un modelo de transición de capacidades de la arquitectura basado en niveles o estadios de expansión de las arquitecturas en el que involucraremos las capacidades de arquitectura y cómo estas van o apareciendo o fortaleciéndose en el tiempo.
 
@@ -629,10 +629,14 @@ Estadios de adopción SOA en el FNA
 1. Entre Unidades de Negocio y Productos de Negocio
 1. Empresarial y Proveedores de Servicios SOA
 
+<br>
+
+![Estadios de adopción SOA en el FNA propuestos por E-Services.](images/adopcion1a.png){#fig:adopcion1a.png width=}
+
 A lo largo de esta secuencia de adopción de cambios establecida arriba, a la que llamamos estadios de adopción SOA del FNA, las capacidades del FNA involucradas y afectadas son las que indicamos en el siguiente apartado.
 
 ## Capacidades de la Empresa FNA
-Esta vista preliminar de capacidades encontradas en el repositorio de arquitectura del FNA, línea base, del producto PR12, Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​, sirve para relacionar estas capacidades con lo niveles de adopción SOA propuesto arriba.
+Esta vista preliminar de capacidades consignadas en el repositorio de arquitectura del FNA por la Fase I de E-Service, llamada la línea base de arquitectura, producto PR12, Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​, nos servirá posteriormente para relacionar dichas capacidades con lo niveles de adopción SOA propuesto arriba.
 
 Capacidades de negocio encontradas:
 
@@ -647,9 +651,11 @@ Capacidades de negocio encontradas:
 
 _Fuente: Repositorio de arquitectura, línea base del FNA. PR12 de E-Service Fase II._
 
+**Nota**: esta lista de capacidades no es exhaustiva. Es tan solo una parte de las capacidades que son foco de la actual consultoría.
+
 <br>
 
-![capacidades encontradas en el repositorio de arquitectura del FNA, línea base.](images/capacidades-neg.png){#fig:capacidades-neg.png width=}
+![Capacidades encontradas en el repositorio de arquitectura del FNA, línea base.](images/capacidades-neg.png){#fig:capacidades-neg.png width=}
 
 _Fuente: Repositorio de arquitectura, línea base del FNA. PR12 de E-Service Fase II._
 
@@ -668,9 +674,17 @@ De la mano del proceso de gobierno SOA del FNA, @eservices3-22, presentamos esta
 
 <br>
 
-![Capacidades de arquitectura del FNA provenientes de los procesos de arquitectura propuestos.](images/capacidades-neg.png){#fig:capacidades-neg.png width=}
+![Capacidades de arquitectura del FNA provenientes de los procesos de arquitectura propuestos.](images/capacidades-arq.png){#fig:capacidades-neg.png width=}
 
 _Fuente: Repositorio de arquitectura, línea base del FNA. PR12 de E-Service Fase II._
+
+<br>
+
+Lo anterior nos permite relacionar las capacidades de arquitectura con los estadios de adopción de las arquitecturas de referencia dentro del FNA. La relación indica la medida de desarrollo de las capacidades y viceversa: las capacidades que necesitan ser desarrolladas para aumentar los niveles de adopción.
+
+![Relación de desarrollo de las capacidades y la adopción de las arquitecturas de referencia SOA en el FNA.](images/adopcion1.png){#fig:adopcion1.png width=}
+
+_Fuente: elaboración propia._
 
 <br>
 
