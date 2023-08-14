@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-10'
+date-meta: '2023-08-14'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-10" />
-  <meta name="citation_publication_date" content="2023-08-10" />
-  <meta property="article:published_time" content="2023-08-10" />
-  <meta name="dc.modified" content="2023-08-10T20:56:08+00:00" />
-  <meta property="article:modified_time" content="2023-08-10T20:56:08+00:00" />
+  <meta name="dc.date" content="2023-08-14" />
+  <meta name="citation_publication_date" content="2023-08-14" />
+  <meta property="article:published_time" content="2023-08-14" />
+  <meta name="dc.modified" content="2023-08-14T18:52:01+00:00" />
+  <meta property="article:modified_time" content="2023-08-14T18:52:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/ef87f78ce0e70a616623db963e08d1352460a49d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/ef87f78ce0e70a616623db963e08d1352460a49d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/ef87f78ce0e70a616623db963e08d1352460a49d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b62678ed0d7a9a197bfcf72a1be0b042f91f5720/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b62678ed0d7a9a197bfcf72a1be0b042f91f5720/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b62678ed0d7a9a197bfcf72a1be0b042f91f5720/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/ef87f78ce0e70a616623db963e08d1352460a49d/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e2/v/b62678ed0d7a9a197bfcf72a1be0b042f91f5720/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@ef87f78](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 10, 2023.
+[Sharepoint STEF@b62678e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 14, 2023.
 </em></small>
 
-|    **Versión** del producto 1.ef87f78 de 10 Aug 2023
+|    **Versión** del producto 1.b62678e de 14 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.ef87f78 del 10 Aug 2023 |
+| Versión        | 1.b62678e del 14 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -179,9 +179,9 @@ Entrega de los productos de la Etapa 2, PR13. Modelado en lenguaje y herramienta
 >
 >    FNA, Stefanini
 >
->    10 Aug 2023
+>    14 Aug 2023
 >
->    **Versión** 1.ef87f78
+>    **Versión** 1.b62678e
 
 <br>
 
@@ -240,7 +240,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ef87f78** del 10 Aug 2023                       |
+| Versión        | **1.b62678e** del 14 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -471,7 +471,7 @@ prnombre: "Modelado en lenguaje y herramienta de diseño del FNA​"
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ef87f78** del 10 Aug 2023                       |
+| Versión        | **1.b62678e** del 14 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -555,9 +555,9 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    FNA, Stefanini
 >
->    10 Aug 2023
+>    14 Aug 2023
 >
->    **Versión** 1.ef87f78
+>    **Versión** 1.b62678e
 
 <br>
 
@@ -610,7 +610,7 @@ prnombre: "Administración de las transiciones hacia la arquitectura versión 2.
 | Palabras clave | SOA, Arquitectura de referencia, Estadios, Adopción                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ef87f78** del 10 Aug 2023                       |
+| Versión        | **1.b62678e** del 14 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -693,7 +693,7 @@ prnombre: "Administración de las transiciones hacia la arquitectura versión 2.
 | Palabras clave | SOA, Arquitectura de referencia, Estadios de adopción, Adopción, Capacidades de arquitectura, Capacidades                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ef87f78** del 10 Aug 2023                       |
+| Versión        | **1.b62678e** del 14 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -738,7 +738,7 @@ prnombre: "Administración de las transiciones hacia la arquitectura versión 2.
 | Palabras clave | SOA, Arquitectura de referencia, Estadios de adopción, Adopción, Capacidades de arquitectura, Capacidades                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ef87f78** del 10 Aug 2023                       |
+| Versión        | **1.b62678e** del 14 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
